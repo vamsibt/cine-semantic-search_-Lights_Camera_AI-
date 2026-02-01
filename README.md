@@ -1,4 +1,4 @@
-![Alt text](RedmePhotos/logo.jpeg)
+![Alt text](ReadmePhotos/logo.jpeg)
 
 ## 🎬 Editor Search Engine
 
