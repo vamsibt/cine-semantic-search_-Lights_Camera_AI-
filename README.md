@@ -4,6 +4,10 @@
 
 An AI-powered system that allows video editors and creators to search large video collections by meaning, emotion, and narrative intent — not just keywords.
 
+## 🎬 Demo Videos Google drive link
+
+google Drive: https://drive.google.com/drive/folders/1A-JbZtePHl4n_tXWQWMUQI0WMJJ0cl8l?usp=sharing
+
 This project automatically:
 
     Processes raw videos
@@ -41,7 +45,7 @@ This project automatically:
 1️⃣ Create virtual environment
 
     python -m venv cineAIvenv
-    source cineAIvenv/bin/activate  
+    source cineAIvenv/bin/activate
     cineAIvenv\Scripts\activate
 
 2️⃣ Install dependencies
@@ -93,7 +97,7 @@ What it does:
     cd semantic-transcript-search
     streamlit run app.py
 
-    
+
     Then open: http://localhost:8501
 
 ## 🔎 Example Queries
