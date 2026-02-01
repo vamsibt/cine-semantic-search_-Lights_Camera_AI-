@@ -40,17 +40,17 @@ This project automatically:
 
 1️⃣ Create virtual environment
 
-    -python -m venv cineAIvenv
-    -source cineAIvenv/bin/activate  
-    -cineAIvenv\Scripts\activate
+    python -m venv cineAIvenv
+    source cineAIvenv/bin/activate  
+    cineAIvenv\Scripts\activate
 
 2️⃣ Install dependencies
 
-    -pip install -r requirements.txt
+    pip install -r requirements.txt
 
 3️⃣ Add Gemini API keys
 
-    -GEMINI_API_KEYS=AIzaSyXXXXXX,AIzaSyYYYYYY
+    GEMINI_API_KEYS=XXXXXXXXXXXX,YYYYYYYYYYYYY
 
 Multiple keys are supported and rotated automatically when quota is hit.
 
@@ -64,7 +64,7 @@ Place your videos here:
 
 The system links videos using stored paths like:
 
--"source_video": "data/Shot6.mp4"
+    "source_video": "data/Shot6.mp4"
 
 ## ▶️ Running the Full Pipeline (One Command)
 
@@ -90,11 +90,11 @@ What it does:
 
 ## 🖥️ Launch the Web App
 
--cd semantic-transcript-search
--streamlit run app.py
+    cd semantic-transcript-search
+    streamlit run app.py
 
-Then open:
--http://localhost:8501
+    
+    Then open: http://localhost:8501
 
 ## 🔎 Example Queries
 
@@ -114,7 +114,7 @@ The most semantically relevant scene will be shown with video preview.
 
 Using RapidFuzz, shots can be reordered based on similarity with a movie script.
 
--python arranging_shots/arranging.py
+    python arranging_shots/arranging.py
 
 Useful for:
 
