@@ -1,0 +1,14 @@
+{
+  "shot_id": "shot5",
+  "source_video": "data/Shot2.mp4",
+  "start_time": 0.0,
+  "end_time": 110.0,
+  "source_timeline": "Shot2_timeline.json",
+  "signals": {
+    "dialogue": "Here you've got a hell of a right cross. It's a shame, the sound's going to walk. Yeah, well, good thing about the mob is they keep giving you a second chances. Lightly irradiated bills, fancy stuff for a city cop. Have help? We liaises with various agencies. Save it Gordon. I want to meet him. Official policy is to arrest the vigilante known as Batman on site. And what about that floodlight on the top of MCU? You've got problems with malfunctioning equipment. I suggest you take them up with maintenance counselor. I've put every known money laundering got them behind bars, but the mob is still getting its money out. I think you and your friend have found the last game in town and you're trying to hit him where it hurts. They're wallets. It's bold. Can you count me in? And this town, a few of people know something. They're safe for the operation. Gordon, I don't like that you've got your own special unit. And I don't like that it's full of cops. I investigated it, internal affairs. If I didn't work with cops, you'd investigate it. Well, you mimicking your name at I.A.I.P working alone. I don't get political points for being an idealist. I have to do the best I can with what I have. You want me to back warts for search and seizure on five banks? Without telling me what we're after. I can give you the names of the banks. Well, that's a start. I'll get you your warts, but I want your trust. Well, you don't have to sell me that. You don't know you've got some sweet might. Yeah, well, I heard they have a different name for me that at MCU. I wouldn't know about that.",
+    "pause_duration": 0,
+    "emotion": "frustration",
+    "emotional_intensity": "high",
+    "tone": "tense, pragmatic, and ultimately collaborative"
+  }
+}

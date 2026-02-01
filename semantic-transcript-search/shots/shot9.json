@@ -1,0 +1,14 @@
+{
+  "shot_id": "shot9",
+  "source_video": "data/Shot6.mp4",
+  "start_time": 0.0,
+  "end_time": 135.2,
+  "source_timeline": "Shot6_timeline.json",
+  "signals": {
+    "dialogue": "Took me three weeks to get a reservation here. And I had to tell him I worked for the government. Really? This city health inspector's not afraid to pull strings. Rachel, fancy that. Yeah, Bruce, fancy that. Rachel, Natasha, Natasha, Rachel. Natasha, are you the premier? I'm not a ballerator for the Moscow Ballet. Wow, Harvey's taking me next week. Really? So you're in the Ballet. Bruce, this is Harvey Dent. The famous Bruce Wayne. Rachel's told me everything about you. No, certainly, I'm not. So let's put a couple tables together. I'm not sure that they'll let us. Oh, they should. I'm in the place. How could you want to raise children in a city like this? Well, I was raised here. I turned out OK. Is Wayne Manor in the city limits? The pal states. Sure. You know, as our new DA, you might want to figure out where your jurisdiction ends. I'm talking about the kind of city that idolizes a masked vigilante. Gotham City is proud of an ordinary citizen standing up for what's right. Gotham needs heroes like you, elected officials. Not a man who thinks he is above the law. Exactly. We appointed the bad man. We did. All of us who stood by and let scum take control of our city. But this is a democracy, Harvey. When their enemies were at the gates, the Romans would suspend democracy and appoint one man to protect the city. It wasn't considered an honor. It was considered a public service. Harvey, the last man that they appointed to protect their public was named Caesar, and he never gave up his power. OK, fine. You either die a hero, or you live, long enough to see yourself become the villain. Look, whoever the bad man is, he doesn't want to do this for the rest of his life. How could he? Bad man is looking for someone to take up his mantle. Someone like you, Mr. Dent? Maybe. If I'm up to it. What if Harvey Dent is the Cape Crusader? Huh? If I were sneaking out every night, someone would have noticed by now. Well, I'm so dead, and I'm going to throw you a fundraiser. That's nice of you, Bruce, but I'm not up for reelection for three years. Now you don't understand. One fundraiser with my pals. You'll never need another set.",
+    "pause_duration": 0,
+    "emotion": "confidence",
+    "emotional_intensity": "high",
+    "tone": "Strategic, assertive, and philosophical"
+  }
+}

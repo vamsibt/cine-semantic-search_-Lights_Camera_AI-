@@ -1,0 +1,52 @@
+# =========================
+# ENV / SECRETS
+# =========================
+.env
+
+# =========================
+# PYTHON
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# VIRTUAL ENV
+# =========================
+cineAIvenv/
+venv/
+.env/
+
+# =========================
+# FAISS / GENERATED FILES
+# =========================
+faiss.index
+metadata.json
+
+# =========================
+# OUTPUTS / TEMP
+# =========================
+outputs/
+pipeline/outputs/
+*.log
+
+# =========================
+# OS / EDITOR
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+
+# =========================
+# LARGE MEDIA FILES
+# =========================
+data/*.mp4
+data/*.mov
+data/*.mkv
+data/*.avi
+
+# or ignore whole data folder if it's only videos
+data/

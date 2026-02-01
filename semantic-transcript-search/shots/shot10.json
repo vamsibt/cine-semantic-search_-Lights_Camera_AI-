@@ -1,0 +1,14 @@
+{
+  "shot_id": "shot10",
+  "source_video": "data/Shot7.mp4",
+  "start_time": 0.0,
+  "end_time": 22.0,
+  "source_timeline": "Shot7_timeline.json",
+  "signals": {
+    "dialogue": "Sir, I know that Mr. Wayne is curious about how his trust fund gets replenished, but frankly, this is embarrassing. You worry about the deal, it's just Mr. East. I'll worry about Bruce Wayne. It's done. The numbers are solid. Do them again. Wouldn't want the trust fund to run out, and wouldn't we?",
+    "pause_duration": 0,
+    "emotion": "uncertainty",
+    "emotional_intensity": "high",
+    "tone": "authoritative and anxious"
+  }
+}

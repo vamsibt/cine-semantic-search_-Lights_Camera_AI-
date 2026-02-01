@@ -1,0 +1,14 @@
+{
+  "shot_id": "shot4",
+  "source_video": "data/Shot1.mp4",
+  "start_time": 0.0,
+  "end_time": 19.0,
+  "source_timeline": "Shot1_timeline.json",
+  "signals": {
+    "dialogue": "In China, Lao's security investment stands for Dynamic New Growth. The joint Chinese venture with win enterprises will be a powerhouse. Well, I must allow. I speak for the rest of the board. And Mr. Wayne, expressing our own excitement.",
+    "pause_duration": 0,
+    "emotion": "confidence",
+    "emotional_intensity": "high",
+    "tone": "Optimistic, enthusiastic, and formal"
+  }
+}

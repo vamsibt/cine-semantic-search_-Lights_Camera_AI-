@@ -1,0 +1,14 @@
+{
+  "shot_id": "shot6",
+  "source_video": "data/Shot3.mp4",
+  "start_time": 0.0,
+  "end_time": 40.04,
+  "source_timeline": "Shot3_timeline.json",
+  "signals": {
+    "dialogue": "Another long night, this joint venture was your idea and the consultants love it, but I'm not convinced. Lyle's company has grown by 8% annually like clockwork. His revenue stream must be off the books, maybe even illegal. Okay, cancel the deal. You already knew. Just needed a closer look at their books. Anything else you can trouble me for? I need a new shoe. Yeah, three buttons, it's a little nighties, Mr. Wayne. I'm not in talking fashion, Mr. Fox, so much as Fox. You want to be able to turn your head, and show me back and out of the driveway easier. I'll see what I can do.",
+    "pause_duration": 0,
+    "emotion": "confidence",
+    "emotional_intensity": "medium",
+    "tone": "authoritative"
+  }
+}

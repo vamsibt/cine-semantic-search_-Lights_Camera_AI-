@@ -1,0 +1,14 @@
+{
+  "shot_id": "shot8",
+  "source_video": "data/Shot5.mp4",
+  "start_time": 0.0,
+  "end_time": 93.0,
+  "source_timeline": "Shot5_timeline.json",
+  "signals": {
+    "dialogue": "Be nice when Wayne Mann has rebuilt. You can swap not sleeping in a penthouse. Do not sleep in inner mansion. Whenever you stitch yourself up, you do make a bloody mess. Yeah, it makes me learn from my mistakes. Well, you ought to be pretty knowledgeable, won't you, Elder? My armor. Carrying too much weight needs to be, uh, needs to be faster. I'm sure Mr. Fox can oblige. Did you get molded by a tiger? It was a dog. Huh? It was a big dog. The more copycats last night, Alfred, with guns. Why don't you hide them and take the weekend off? I wasn't exactly what I had in mind when I said I wanted to inspire people. I know. The things have been proved. Look at the new district attorney. I am closely. Did you know if he can be trusted? Are you interested in his character or is, uh, social circle? The Rachel spends her time with her service. I trust you don't have me followed on my day off. You ever took one, I might. Know your limits, Master White. That man has no limits. Well, you do, sir. Well, I can't afford to know him. What's going to happen on the day that you find out? Well, I know how much you like to say. I told you so. On that day, Master Wayne. Even I, but I want to. Probably.",
+    "pause_duration": 4.0,
+    "emotion": "determination",
+    "emotional_intensity": "high",
+    "tone": "Serious, resolute, and concerned, with moments of dry wit."
+  }
+}

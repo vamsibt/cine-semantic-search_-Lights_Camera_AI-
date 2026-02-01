@@ -1,0 +1,32 @@
+[
+  {
+    "type": "Speech",
+    "start": 0.0,
+    "end": 7.0,
+    "text": " Sir, I know that Mr. Wayne is curious about how his trust fund gets replenished, but frankly, this is embarrassing."
+  },
+  {
+    "type": "Speech",
+    "start": 7.0,
+    "end": 12.0,
+    "text": " You worry about the deal, it's just Mr. East. I'll worry about Bruce Wayne."
+  },
+  {
+    "type": "Speech",
+    "start": 12.0,
+    "end": 16.0,
+    "text": " It's done. The numbers are solid."
+  },
+  {
+    "type": "Speech",
+    "start": 16.0,
+    "end": 18.0,
+    "text": " Do them again."
+  },
+  {
+    "type": "Speech",
+    "start": 18.0,
+    "end": 22.0,
+    "text": " Wouldn't want the trust fund to run out, and wouldn't we?"
+  }
+]

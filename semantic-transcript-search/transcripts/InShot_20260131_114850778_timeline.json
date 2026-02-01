@@ -1,0 +1,170 @@
+[
+  {
+    "type": "Speech",
+    "start": 0.0,
+    "end": 2.18,
+    "text": " Bem, Jack."
+  },
+  {
+    "type": "Silence",
+    "start": 2.18,
+    "end": 7.04,
+    "duration": 4.86
+  },
+  {
+    "type": "Speech",
+    "start": 7.04,
+    "end": 9.02,
+    "text": " Eu tenho o meu irm\u00e3o."
+  },
+  {
+    "type": "Silence",
+    "start": 9.02,
+    "end": 16.06,
+    "duration": 7.04
+  },
+  {
+    "type": "Speech",
+    "start": 16.06,
+    "end": 18.9,
+    "text": " Eu sei que vai no mundo."
+  },
+  {
+    "type": "Silence",
+    "start": 18.9,
+    "end": 20.04,
+    "duration": 1.14
+  },
+  {
+    "type": "Speech",
+    "start": 20.04,
+    "end": 22.1,
+    "text": " Por que eu sou?"
+  },
+  {
+    "type": "Silence",
+    "start": 22.1,
+    "end": 27.1,
+    "duration": 5.0
+  },
+  {
+    "type": "Speech",
+    "start": 27.1,
+    "end": 28.68,
+    "text": " N\u00e3o se se clausem."
+  },
+  {
+    "type": "Speech",
+    "start": 28.68,
+    "end": 30.68,
+    "text": " Close o seu arido."
+  },
+  {
+    "type": "Silence",
+    "start": 30.68,
+    "end": 31.4,
+    "duration": 0.72
+  },
+  {
+    "type": "Speech",
+    "start": 31.4,
+    "end": 33.4,
+    "text": " Come on!"
+  },
+  {
+    "type": "Silence",
+    "start": 33.4,
+    "end": 36.08,
+    "duration": 2.68
+  },
+  {
+    "type": "Speech",
+    "start": 36.08,
+    "end": 38.08,
+    "text": " Step up."
+  },
+  {
+    "type": "Silence",
+    "start": 38.08,
+    "end": 41.28,
+    "duration": 3.2
+  },
+  {
+    "type": "Speech",
+    "start": 41.28,
+    "end": 43.28,
+    "text": " E n\u00e3o est\u00e1 na realidade."
+  },
+  {
+    "type": "Speech",
+    "start": 43.28,
+    "end": 44.88,
+    "text": " O seu arido n\u00e3o \u00e9?"
+  },
+  {
+    "type": "Speech",
+    "start": 44.88,
+    "end": 46.08,
+    "text": " N\u00e3o \u00e9."
+  },
+  {
+    "type": "Speech",
+    "start": 46.08,
+    "end": 48.08,
+    "text": " O seu arido \u00e9 o seu arido."
+  },
+  {
+    "type": "Speech",
+    "start": 48.08,
+    "end": 50.08,
+    "text": " Conte-me."
+  },
+  {
+    "type": "Speech",
+    "start": 50.08,
+    "end": 52.08,
+    "text": " Eu estou vestindo."
+  },
+  {
+    "type": "Silence",
+    "start": 52.08,
+    "end": 58.68,
+    "duration": 6.6
+  },
+  {
+    "type": "Speech",
+    "start": 58.68,
+    "end": 60.68,
+    "text": " Falei!"
+  },
+  {
+    "type": "Speech",
+    "start": 60.68,
+    "end": 62.68,
+    "text": " Falei!"
+  },
+  {
+    "type": "Speech",
+    "start": 62.68,
+    "end": 64.68,
+    "text": " Falei!"
+  },
+  {
+    "type": "Silence",
+    "start": 64.68,
+    "end": 70.68,
+    "duration": 6.0
+  },
+  {
+    "type": "Speech",
+    "start": 70.68,
+    "end": 72.68,
+    "text": " Falei!"
+  },
+  {
+    "type": "Speech",
+    "start": 72.68,
+    "end": 74.68,
+    "text": " Jack!"
+  }
+]

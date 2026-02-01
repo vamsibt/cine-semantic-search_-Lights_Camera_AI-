@@ -1,0 +1,476 @@
+[
+  {
+    "type": "Speech",
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Ah, ah, ah, ah, that's good."
+  },
+  {
+    "type": "Silence",
+    "start": 5.0,
+    "end": 10.0,
+    "duration": 5.0
+  },
+  {
+    "type": "Speech",
+    "start": 10.0,
+    "end": 12.0,
+    "text": " So how's your lady?"
+  },
+  {
+    "type": "Speech",
+    "start": 12.0,
+    "end": 15.0,
+    "text": " As she's gone."
+  },
+  {
+    "type": "Speech",
+    "start": 15.0,
+    "end": 18.0,
+    "text": " Gone, gone away."
+  },
+  {
+    "type": "Speech",
+    "start": 18.0,
+    "end": 22.0,
+    "text": " Med school, medical school, and California."
+  },
+  {
+    "type": "Speech",
+    "start": 22.0,
+    "end": 23.0,
+    "text": " Really?"
+  },
+  {
+    "type": "Speech",
+    "start": 23.0,
+    "end": 24.0,
+    "text": " Yeah."
+  },
+  {
+    "type": "Speech",
+    "start": 24.0,
+    "end": 25.0,
+    "text": " What was this?"
+  },
+  {
+    "type": "Speech",
+    "start": 25.0,
+    "end": 27.0,
+    "text": " It's like a week ago."
+  },
+  {
+    "type": "Silence",
+    "start": 27.0,
+    "end": 30.0,
+    "duration": 3.0
+  },
+  {
+    "type": "Speech",
+    "start": 30.0,
+    "end": 32.0,
+    "text": " That sucks."
+  },
+  {
+    "type": "Silence",
+    "start": 32.0,
+    "end": 35.0,
+    "duration": 3.0
+  },
+  {
+    "type": "Speech",
+    "start": 35.0,
+    "end": 39.0,
+    "text": " So, uh, when are you done with those meetings?"
+  },
+  {
+    "type": "Speech",
+    "start": 39.0,
+    "end": 41.0,
+    "text": " I think the week after I'm 21."
+  },
+  {
+    "type": "Speech",
+    "start": 41.0,
+    "end": 44.0,
+    "text": " Yeah, are they going to hook you up with a job or what?"
+  },
+  {
+    "type": "Speech",
+    "start": 44.0,
+    "end": 48.0,
+    "text": " Yeah, fucking sitting in a room and doing long division for the next 50 years."
+  },
+  {
+    "type": "Speech",
+    "start": 48.0,
+    "end": 49.0,
+    "text": " Yeah."
+  },
+  {
+    "type": "Speech",
+    "start": 49.0,
+    "end": 51.0,
+    "text": " Probably make some nice bang, though."
+  },
+  {
+    "type": "Speech",
+    "start": 51.0,
+    "end": 53.0,
+    "text": " We have fucking elaborate."
+  },
+  {
+    "type": "Speech",
+    "start": 53.0,
+    "end": 55.0,
+    "text": " Better than this shit."
+  },
+  {
+    "type": "Speech",
+    "start": 55.0,
+    "end": 57.0,
+    "text": " Way out of here."
+  },
+  {
+    "type": "Silence",
+    "start": 57.0,
+    "end": 58.0,
+    "duration": 1.0
+  },
+  {
+    "type": "Speech",
+    "start": 58.0,
+    "end": 59.0,
+    "text": " I want a way out of here for her."
+  },
+  {
+    "type": "Speech",
+    "start": 59.0,
+    "end": 61.0,
+    "text": " I mean, I'm going to fucking live here the rest of my life."
+  },
+  {
+    "type": "Speech",
+    "start": 61.0,
+    "end": 63.0,
+    "text": " You know, being neighbors, you know."
+  },
+  {
+    "type": "Speech",
+    "start": 63.0,
+    "end": 67.0,
+    "text": " We'll have little kids fucking taking a little league together up fully failed."
+  },
+  {
+    "type": "Silence",
+    "start": 67.0,
+    "end": 70.0,
+    "duration": 3.0
+  },
+  {
+    "type": "Speech",
+    "start": 70.0,
+    "end": 73.0,
+    "text": " Look, you're my best friend, so don't take this the wrong way."
+  },
+  {
+    "type": "Speech",
+    "start": 73.0,
+    "end": 76.0,
+    "text": " In 20 years, if you're still living here,"
+  },
+  {
+    "type": "Speech",
+    "start": 76.0,
+    "end": 78.0,
+    "text": " coming over my house to watch the Patriots game,"
+  },
+  {
+    "type": "Speech",
+    "start": 78.0,
+    "end": 80.0,
+    "text": " you're still working construction."
+  },
+  {
+    "type": "Speech",
+    "start": 80.0,
+    "end": 82.0,
+    "text": " I fucking kill you."
+  },
+  {
+    "type": "Speech",
+    "start": 82.0,
+    "end": 83.0,
+    "text": " That's not a threat."
+  },
+  {
+    "type": "Speech",
+    "start": 83.0,
+    "end": 84.0,
+    "text": " That's a fact."
+  },
+  {
+    "type": "Speech",
+    "start": 84.0,
+    "end": 85.0,
+    "text": " I fucking kill you."
+  },
+  {
+    "type": "Speech",
+    "start": 85.0,
+    "end": 86.0,
+    "text": " Fucking talking about."
+  },
+  {
+    "type": "Silence",
+    "start": 86.0,
+    "end": 87.0,
+    "duration": 1.0
+  },
+  {
+    "type": "Speech",
+    "start": 87.0,
+    "end": 90.0,
+    "text": " Look, you got something none of us."
+  },
+  {
+    "type": "Speech",
+    "start": 90.0,
+    "end": 91.0,
+    "text": " Oh, come on."
+  },
+  {
+    "type": "Speech",
+    "start": 91.0,
+    "end": 92.0,
+    "text": " Why is it always this?"
+  },
+  {
+    "type": "Speech",
+    "start": 92.0,
+    "end": 94.0,
+    "text": " I mean, I fucking know it's myself to do this."
+  },
+  {
+    "type": "Speech",
+    "start": 94.0,
+    "end": 95.0,
+    "text": " That wouldn't find it hard to."
+  },
+  {
+    "type": "Speech",
+    "start": 95.0,
+    "end": 96.0,
+    "text": " No, no, no."
+  },
+  {
+    "type": "Speech",
+    "start": 96.0,
+    "end": 97.0,
+    "text": " I'll fuck you."
+  },
+  {
+    "type": "Speech",
+    "start": 97.0,
+    "end": 99.0,
+    "text": " You don't know it to yourself."
+  },
+  {
+    "type": "Speech",
+    "start": 99.0,
+    "end": 101.0,
+    "text": " You owe it to me."
+  },
+  {
+    "type": "Speech",
+    "start": 101.0,
+    "end": 102.0,
+    "text": " It's tomorrow."
+  },
+  {
+    "type": "Speech",
+    "start": 102.0,
+    "end": 104.0,
+    "text": " I'm going to wake up and I'll be 50."
+  },
+  {
+    "type": "Speech",
+    "start": 104.0,
+    "end": 106.0,
+    "text": " And I'll still be doing this shit."
+  },
+  {
+    "type": "Speech",
+    "start": 106.0,
+    "end": 107.0,
+    "text": " That's all right."
+  },
+  {
+    "type": "Speech",
+    "start": 107.0,
+    "end": 108.0,
+    "text": " That's fine."
+  },
+  {
+    "type": "Speech",
+    "start": 108.0,
+    "end": 111.0,
+    "text": " I mean, you're sitting on a winning lottery ticket."
+  },
+  {
+    "type": "Speech",
+    "start": 111.0,
+    "end": 113.0,
+    "text": " You're too much of a pussy to cash in."
+  },
+  {
+    "type": "Speech",
+    "start": 113.0,
+    "end": 114.0,
+    "text": " Hey."
+  },
+  {
+    "type": "Speech",
+    "start": 114.0,
+    "end": 115.0,
+    "text": " That's bullshit."
+  },
+  {
+    "type": "Silence",
+    "start": 115.0,
+    "end": 117.0,
+    "duration": 2.0
+  },
+  {
+    "type": "Speech",
+    "start": 117.0,
+    "end": 120.0,
+    "text": " Because I do fucking anything to have, but you got it."
+  },
+  {
+    "type": "Speech",
+    "start": 120.0,
+    "end": 123.0,
+    "text": " So would any of these fucking guys."
+  },
+  {
+    "type": "Speech",
+    "start": 123.0,
+    "end": 126.0,
+    "text": " Be an insult to watch if you're still here in 20 years."
+  },
+  {
+    "type": "Speech",
+    "start": 126.0,
+    "end": 129.0,
+    "text": " I ain't around here until fucking waste the other time."
+  },
+  {
+    "type": "Speech",
+    "start": 129.0,
+    "end": 130.0,
+    "text": " You don't know that."
+  },
+  {
+    "type": "Speech",
+    "start": 130.0,
+    "end": 131.0,
+    "text": " I don't?"
+  },
+  {
+    "type": "Speech",
+    "start": 131.0,
+    "end": 132.0,
+    "text": " No."
+  },
+  {
+    "type": "Speech",
+    "start": 132.0,
+    "end": 133.0,
+    "text": " You don't know."
+  },
+  {
+    "type": "Speech",
+    "start": 133.0,
+    "end": 134.0,
+    "text": " I don't know that."
+  },
+  {
+    "type": "Speech",
+    "start": 134.0,
+    "end": 135.0,
+    "text": " Let me tell you what I do."
+  },
+  {
+    "type": "Speech",
+    "start": 135.0,
+    "end": 138.0,
+    "text": " Every day I come by your house and I pick you up."
+  },
+  {
+    "type": "Speech",
+    "start": 138.0,
+    "end": 140.0,
+    "text": " When you go out, we have a few drinks,"
+  },
+  {
+    "type": "Speech",
+    "start": 140.0,
+    "end": 142.0,
+    "text": " and a few laughs, and it's great."
+  },
+  {
+    "type": "Speech",
+    "start": 142.0,
+    "end": 145.0,
+    "text": " You know what the best part of my day is?"
+  },
+  {
+    "type": "Speech",
+    "start": 145.0,
+    "end": 146.0,
+    "text": " It's for about 10 seconds."
+  },
+  {
+    "type": "Speech",
+    "start": 146.0,
+    "end": 149.0,
+    "text": " When I pull up to the curb when I get to your door."
+  },
+  {
+    "type": "Speech",
+    "start": 149.0,
+    "end": 152.0,
+    "text": " Because I think maybe I'll get up there and I'm not going to door."
+  },
+  {
+    "type": "Speech",
+    "start": 152.0,
+    "end": 154.0,
+    "text": " You won't be there."
+  },
+  {
+    "type": "Speech",
+    "start": 154.0,
+    "end": 155.0,
+    "text": " I don't go by."
+  },
+  {
+    "type": "Speech",
+    "start": 155.0,
+    "end": 157.0,
+    "text": " I know CLA and I know nothing."
+  },
+  {
+    "type": "Speech",
+    "start": 157.0,
+    "end": 159.0,
+    "text": " I'm just laughing."
+  },
+  {
+    "type": "Speech",
+    "start": 159.0,
+    "end": 162.0,
+    "text": " I don't watch, but I know that."
+  }
+]

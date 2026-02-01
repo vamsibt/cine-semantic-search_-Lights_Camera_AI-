@@ -1,0 +1,404 @@
+[
+  {
+    "type": "Speech",
+    "start": 0.0,
+    "end": 2.3,
+    "text": " Took me three weeks to get a reservation here."
+  },
+  {
+    "type": "Speech",
+    "start": 2.3,
+    "end": 4.6,
+    "text": " And I had to tell him I worked for the government."
+  },
+  {
+    "type": "Speech",
+    "start": 4.6,
+    "end": 5.1,
+    "text": " Really?"
+  },
+  {
+    "type": "Speech",
+    "start": 5.1,
+    "end": 7.6,
+    "text": " This city health inspector's not afraid to pull strings."
+  },
+  {
+    "type": "Speech",
+    "start": 7.6,
+    "end": 9.9,
+    "text": " Rachel, fancy that."
+  },
+  {
+    "type": "Speech",
+    "start": 9.9,
+    "end": 12.8,
+    "text": " Yeah, Bruce, fancy that."
+  },
+  {
+    "type": "Speech",
+    "start": 12.8,
+    "end": 15.0,
+    "text": " Rachel, Natasha, Natasha, Rachel."
+  },
+  {
+    "type": "Speech",
+    "start": 15.0,
+    "end": 17.8,
+    "text": " Natasha, are you the premier?"
+  },
+  {
+    "type": "Speech",
+    "start": 17.8,
+    "end": 20.0,
+    "text": " I'm not a ballerator for the Moscow Ballet."
+  },
+  {
+    "type": "Speech",
+    "start": 20.0,
+    "end": 22.2,
+    "text": " Wow, Harvey's taking me next week."
+  },
+  {
+    "type": "Speech",
+    "start": 22.2,
+    "end": 22.7,
+    "text": " Really?"
+  },
+  {
+    "type": "Speech",
+    "start": 22.7,
+    "end": 24.5,
+    "text": " So you're in the Ballet."
+  },
+  {
+    "type": "Speech",
+    "start": 24.5,
+    "end": 27.0,
+    "text": " Bruce, this is Harvey Dent."
+  },
+  {
+    "type": "Speech",
+    "start": 27.0,
+    "end": 29.2,
+    "text": " The famous Bruce Wayne."
+  },
+  {
+    "type": "Speech",
+    "start": 29.2,
+    "end": 30.8,
+    "text": " Rachel's told me everything about you."
+  },
+  {
+    "type": "Speech",
+    "start": 30.8,
+    "end": 32.4,
+    "text": " No, certainly, I'm not."
+  },
+  {
+    "type": "Speech",
+    "start": 32.4,
+    "end": 34.4,
+    "text": " So let's put a couple tables together."
+  },
+  {
+    "type": "Speech",
+    "start": 34.4,
+    "end": 35.8,
+    "text": " I'm not sure that they'll let us."
+  },
+  {
+    "type": "Speech",
+    "start": 35.8,
+    "end": 37.0,
+    "text": " Oh, they should."
+  },
+  {
+    "type": "Speech",
+    "start": 37.0,
+    "end": 39.3,
+    "text": " I'm in the place."
+  },
+  {
+    "type": "Speech",
+    "start": 39.3,
+    "end": 41.6,
+    "text": " How could you want to raise children in a city like this?"
+  },
+  {
+    "type": "Speech",
+    "start": 41.6,
+    "end": 43.4,
+    "text": " Well, I was raised here."
+  },
+  {
+    "type": "Speech",
+    "start": 43.4,
+    "end": 44.7,
+    "text": " I turned out OK."
+  },
+  {
+    "type": "Speech",
+    "start": 44.7,
+    "end": 48.0,
+    "text": " Is Wayne Manor in the city limits?"
+  },
+  {
+    "type": "Speech",
+    "start": 48.0,
+    "end": 49.3,
+    "text": " The pal states."
+  },
+  {
+    "type": "Speech",
+    "start": 49.3,
+    "end": 49.8,
+    "text": " Sure."
+  },
+  {
+    "type": "Speech",
+    "start": 49.8,
+    "end": 51.0,
+    "text": " You know, as our new DA, you might want"
+  },
+  {
+    "type": "Speech",
+    "start": 51.0,
+    "end": 54.4,
+    "text": " to figure out where your jurisdiction ends."
+  },
+  {
+    "type": "Speech",
+    "start": 54.4,
+    "end": 56.0,
+    "text": " I'm talking about the kind of city"
+  },
+  {
+    "type": "Speech",
+    "start": 56.0,
+    "end": 58.4,
+    "text": " that idolizes a masked vigilante."
+  },
+  {
+    "type": "Speech",
+    "start": 58.4,
+    "end": 60.8,
+    "text": " Gotham City is proud of an ordinary citizen standing"
+  },
+  {
+    "type": "Speech",
+    "start": 60.8,
+    "end": 61.8,
+    "text": " up for what's right."
+  },
+  {
+    "type": "Speech",
+    "start": 61.8,
+    "end": 64.4,
+    "text": " Gotham needs heroes like you, elected officials."
+  },
+  {
+    "type": "Speech",
+    "start": 64.4,
+    "end": 66.0,
+    "text": " Not a man who thinks he is above the law."
+  },
+  {
+    "type": "Speech",
+    "start": 66.0,
+    "end": 66.6,
+    "text": " Exactly."
+  },
+  {
+    "type": "Speech",
+    "start": 66.6,
+    "end": 67.6,
+    "text": " We appointed the bad man."
+  },
+  {
+    "type": "Speech",
+    "start": 67.6,
+    "end": 68.5,
+    "text": " We did."
+  },
+  {
+    "type": "Speech",
+    "start": 68.5,
+    "end": 72.0,
+    "text": " All of us who stood by and let scum take control of our city."
+  },
+  {
+    "type": "Speech",
+    "start": 72.0,
+    "end": 73.8,
+    "text": " But this is a democracy, Harvey."
+  },
+  {
+    "type": "Speech",
+    "start": 73.8,
+    "end": 75.6,
+    "text": " When their enemies were at the gates,"
+  },
+  {
+    "type": "Speech",
+    "start": 75.6,
+    "end": 77.2,
+    "text": " the Romans would suspend democracy"
+  },
+  {
+    "type": "Speech",
+    "start": 77.2,
+    "end": 79.6,
+    "text": " and appoint one man to protect the city."
+  },
+  {
+    "type": "Speech",
+    "start": 79.6,
+    "end": 80.7,
+    "text": " It wasn't considered an honor."
+  },
+  {
+    "type": "Speech",
+    "start": 80.7,
+    "end": 82.4,
+    "text": " It was considered a public service."
+  },
+  {
+    "type": "Speech",
+    "start": 82.4,
+    "end": 84.4,
+    "text": " Harvey, the last man that they appointed"
+  },
+  {
+    "type": "Speech",
+    "start": 84.4,
+    "end": 86.6,
+    "text": " to protect their public was named Caesar,"
+  },
+  {
+    "type": "Speech",
+    "start": 86.6,
+    "end": 88.3,
+    "text": " and he never gave up his power."
+  },
+  {
+    "type": "Speech",
+    "start": 88.3,
+    "end": 90.2,
+    "text": " OK, fine."
+  },
+  {
+    "type": "Speech",
+    "start": 90.2,
+    "end": 92.3,
+    "text": " You either die a hero, or you live,"
+  },
+  {
+    "type": "Speech",
+    "start": 92.3,
+    "end": 94.9,
+    "text": " long enough to see yourself become the villain."
+  },
+  {
+    "type": "Speech",
+    "start": 94.9,
+    "end": 96.9,
+    "text": " Look, whoever the bad man is,"
+  },
+  {
+    "type": "Speech",
+    "start": 96.9,
+    "end": 98.5,
+    "text": " he doesn't want to do this for the rest of his life."
+  },
+  {
+    "type": "Speech",
+    "start": 98.5,
+    "end": 99.3,
+    "text": " How could he?"
+  },
+  {
+    "type": "Speech",
+    "start": 99.3,
+    "end": 101.9,
+    "text": " Bad man is looking for someone to take up his mantle."
+  },
+  {
+    "type": "Speech",
+    "start": 101.9,
+    "end": 104.7,
+    "text": " Someone like you, Mr. Dent?"
+  },
+  {
+    "type": "Speech",
+    "start": 104.7,
+    "end": 106.5,
+    "text": " Maybe."
+  },
+  {
+    "type": "Speech",
+    "start": 106.5,
+    "end": 107.3,
+    "text": " If I'm up to it."
+  },
+  {
+    "type": "Speech",
+    "start": 107.3,
+    "end": 112.1,
+    "text": " What if Harvey Dent is the Cape Crusader?"
+  },
+  {
+    "type": "Speech",
+    "start": 112.1,
+    "end": 114.9,
+    "text": " Huh?"
+  },
+  {
+    "type": "Speech",
+    "start": 114.9,
+    "end": 116.3,
+    "text": " If I were sneaking out every night,"
+  },
+  {
+    "type": "Speech",
+    "start": 116.3,
+    "end": 120.4,
+    "text": " someone would have noticed by now."
+  },
+  {
+    "type": "Speech",
+    "start": 120.4,
+    "end": 124.6,
+    "text": " Well, I'm so dead, and I'm going to throw you a fundraiser."
+  },
+  {
+    "type": "Speech",
+    "start": 124.6,
+    "end": 127.1,
+    "text": " That's nice of you, Bruce, but I'm not up for reelection"
+  },
+  {
+    "type": "Speech",
+    "start": 127.1,
+    "end": 127.8,
+    "text": " for three years."
+  },
+  {
+    "type": "Speech",
+    "start": 127.8,
+    "end": 129.8,
+    "text": " Now you don't understand."
+  },
+  {
+    "type": "Speech",
+    "start": 129.8,
+    "end": 133.2,
+    "text": " One fundraiser with my pals."
+  },
+  {
+    "type": "Speech",
+    "start": 133.2,
+    "end": 135.2,
+    "text": " You'll never need another set."
+  }
+]

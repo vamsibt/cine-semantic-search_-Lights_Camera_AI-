@@ -1,0 +1,14 @@
+{
+  "shot_id": "shot7",
+  "source_video": "data/Shot4.mp4",
+  "start_time": 0.0,
+  "end_time": 130.0,
+  "source_timeline": "Shot4_timeline.json",
+  "signals": {
+    "dialogue": "Sorry, I'm late, folks. Why were you? Were you deaf to step up? Harvey, I know these briefs backwards. Oh, deaf. Fair as fair. I had to take it. Tells he's all yours. Yeah, you want to flip a coin to see the leads? It's my father's lucky coin. As a recall, I'll cut me my first date with you. I wouldn't leave something like that up to chance. I don't. I make my own luck. All rise. The article gets real inviting. I thought the DA just played golf with the mad things like that. The Office 130. More than enough time to put you away for life, Sally. With Carmine Falcone and Arkham, someone must have stepped up to run the so-called family. Is that man in this courtroom today? Could you identify him for us, please? You win, Gownsler. It was me. I have a sworn statement from you that this man, Salvatore Moroni, is the new head of the Falcone crime family. Moroni? He's a fall guy. I'm the brains of the organization. Order. Permission to treat the witnesses, hostile. Hostile? No! Carbon fiber, 28 caliber, main China. If you want to kill a public servant, Mr. Moroni, I recommend you buy American. Get him out of here. Your honor, I'm not done. I'll never be able to like the gun, too. We won't be able to charge him, but the fact they're trying to kill you means we're getting to them. That's just so pleased, Rachel. I'm fine by the way. Come on, Harvey, you've got them's DA. You're not getting shot at. You're not doing your job, right? I know. If you said you were rattled, you could take the rest of the payoff. I can't. I dragged the head of the Major Crimes unit down here. Oh, Jim Gordon? He's a friend, actually. Try to be nice.",
+    "pause_duration": 4.0,
+    "emotion": "confidence",
+    "emotional_intensity": "high",
+    "tone": "confrontational and assertive"
+  }
+}
