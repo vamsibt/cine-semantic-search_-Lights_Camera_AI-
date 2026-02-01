@@ -40,17 +40,17 @@ This project automatically:
 
 1️⃣ Create virtual environment
 
--python -m venv cineAIvenv
--source cineAIvenv/bin/activate  
--cineAIvenv\Scripts\activate
+    -python -m venv cineAIvenv
+    -source cineAIvenv/bin/activate  
+    -cineAIvenv\Scripts\activate
 
 2️⃣ Install dependencies
 
--pip install -r requirements.txt
+    -pip install -r requirements.txt
 
 3️⃣ Add Gemini API keys
 
--GEMINI_API_KEYS=AIzaSyXXXXXX,AIzaSyYYYYYY
+    -GEMINI_API_KEYS=AIzaSyXXXXXX,AIzaSyYYYYYY
 
 Multiple keys are supported and rotated automatically when quota is hit.
 
